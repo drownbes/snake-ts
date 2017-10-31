@@ -1,0 +1,6 @@
+.grid {
+    background: black;
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid white;
+}
